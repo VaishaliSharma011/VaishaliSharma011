@@ -17,6 +17,6 @@
 <h3>:bar_chart: Github Stats</h3>
 <br/>
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=prakash00710&theme=dark" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash00710&show_icons=true&locale=en&theme=dark"/>
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=VaishaliSharma011&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaishaliSharma011&show_icons=true&locale=en&theme=dark"/>
 </p>
