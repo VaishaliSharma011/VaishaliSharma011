@@ -3,8 +3,8 @@
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 - :male-technologist: My Portfolio - **[Vaishali Sharma](https://vaishalisharma.dev.voyage/)**
 - :seedling: I’m currently learning **Machine Learning.**
-- :mailbox: How to reach me **prakash00710@gmail.com**
-- Connect with me - **[LinkedIn](https://www.linkedin.com/in/VaishaliSharma-3610911ba)**
+- :mailbox: How to reach me **2494vaishalisharma@gmail.com**
+- Connect with me - **[LinkedIn](https://www.linkedin.com/in/vaishali-sharma-361465229/)**
 <br/>
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
 <p>
