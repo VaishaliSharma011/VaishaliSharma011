@@ -1,6 +1,11 @@
-<h1 align="center">Hi there! I'm Vaishali Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h2 align="center">Currently Learning Data Analysis from Masai School </h2>
-<p style="display:flex; align-items: center"> 
+<h1 align="center"> Hi there! I'm Vaishali Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<p align="center"> Currently Learning Data Analysis from Masai </p>
+
+![dataanalysis](https://github.com/VaishaliSharma011/VaishaliSharma011/blob/main/Icon3.png?raw=true) 
+
+
+ 
+<p style="display:flex; align-items: center">  
 <img src="https://img.icons8.com/color/48/000000/user-female-circle--v2.png"/> About Me </p>
 <br/>
 -  My Portfolio - **[Vaishali Sharma](https://vaishalisharma.dev.voyage/)**
@@ -20,7 +25,7 @@
    <a href="#"> <img src="https://img.shields.io/badge/Tableau-14354C?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=white" alt="Tableau"/> </a> &nbsp;
 </p>
 
-![dataanalysis](https://github.com/VaishaliSharma011/VaishaliSharma011/blob/main/icon.png?raw=true)
+
 <h3>:bar_chart: Github Stats</h3>
 <br/>
 <p align="center">
