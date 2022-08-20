@@ -4,6 +4,7 @@
 <img src="https://img.icons8.com/color/48/000000/user-female-circle--v2.png"/> About Me </p>
 <br/>
 - :female-technologist: My Portfolio - **[Vaishali Sharma](https://vaishalisharma.dev.voyage/)**
+<br/>
 - :seedling: I’m currently learning **Machine Learning.**
 - :mailbox: How to reach me **2494vaishalisharma@gmail.com**
 - Connect with me - **[LinkedIn](https://www.linkedin.com/in/vaishali-sharma-361465229/)**
