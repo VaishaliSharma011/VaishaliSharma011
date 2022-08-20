@@ -3,13 +3,13 @@
 <p style="display:flex; align-items: center"> 
 <img src="https://img.icons8.com/color/48/000000/user-female-circle--v2.png"/> About Me </p>
 <br/>
-- :female-technologist: My Portfolio - **[Vaishali Sharma](https://vaishalisharma.dev.voyage/)**
+-  My Portfolio - **[Vaishali Sharma](https://vaishalisharma.dev.voyage/)**
+<br/>
+- Connect with me - **[LinkedIn](https://www.linkedin.com/in/vaishali-sharma-361465229/)**
 <br/>
 - :seedling: I’m currently learning **Machine Learning.**
 <br/>
 - :mailbox: How to reach me **2494vaishalisharma@gmail.com**
-<br/>
-- :Deciduous Tree: - **[LinkedIn](https://www.linkedin.com/in/vaishali-sharma-361465229/)**
 <br/>
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
 <p>
