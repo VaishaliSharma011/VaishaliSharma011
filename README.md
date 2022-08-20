@@ -9,7 +9,7 @@
 <br/>
 - :mailbox: How to reach me **2494vaishalisharma@gmail.com**
 <br/>
-- Connect with me - **[LinkedIn](https://www.linkedin.com/in/vaishali-sharma-361465229/)**
+- :Deciduous Tree: - **[LinkedIn](https://www.linkedin.com/in/vaishali-sharma-361465229/)**
 <br/>
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
 <p>
