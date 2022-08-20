@@ -11,7 +11,7 @@
 <br/>
 - :mailbox: How to reach me **2494vaishalisharma@gmail.com**
 <br/>
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
+<p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
 <p>
    <a href="#"> <img src="https://img.shields.io/badge/EXCEL-orange?style=for-the-badge&labelColor=black&logo=Excel&logoColor=orange" alt="EXCEL"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/MS-SQL-blue?style=for-the-badge&labelColor=black&logo=SQL&logoColor=blue" alt="MS-SQL"/> </a> &nbsp;
@@ -19,6 +19,8 @@
    <a href="#"> <img src="https://img.shields.io/badge/Machine Learning-00C7B7?style=for-the-badge&labelColor=black&logo=Machine Learning&logoColor=white" alt="Machine Learning"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Tableau-14354C?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=white" alt="Tableau"/> </a> &nbsp;
 </p>
+
+![dataanalysis](https://github.com/VaishaliSharma011/VaishaliSharma011/blob/main/icon.png?raw=true)
 <h3>:bar_chart: Github Stats</h3>
 <br/>
 <p align="center">
