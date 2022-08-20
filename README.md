@@ -6,7 +6,9 @@
 - :female-technologist: My Portfolio - **[Vaishali Sharma](https://vaishalisharma.dev.voyage/)**
 <br/>
 - :seedling: I’m currently learning **Machine Learning.**
+<br/>
 - :mailbox: How to reach me **2494vaishalisharma@gmail.com**
+<br/>
 - Connect with me - **[LinkedIn](https://www.linkedin.com/in/vaishali-sharma-361465229/)**
 <br/>
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
@@ -23,4 +25,3 @@
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=VaishaliSharma011&theme=dark" /> <br \>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaishaliSharma011&show_icons=true&locale=en&theme=dark"/>
 </p>
-
